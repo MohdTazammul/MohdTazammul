@@ -1,26 +1,26 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/Niteshkumargos1">
-  <img align="left" alt="Nitesh Goshwami | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/MTazammul">
+  <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/nitesh-goshwami-88629a167/">
-  <img align="left" alt="Nitesh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/mohd-tazammul-a97a04150/">
+  <img align="left" alt="Tazammul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
  
-![](https://visitor-badge.glitch.me/badge?page_id=Nitesh-Goshwami.Nitesh-Goshwami)
+![](https://visitor-badge.glitch.me/badge?page_id=MohdTazammul.MohdTazammul)
 
 <br />
 
-Hi, I'm [Nitesh](https://github.com/Nitesh-Goshwami), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:goswami.nitesh5794@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
+- 💬 ask me about anything, i would love to help;
 
 **languages and tools:**  
 
@@ -39,13 +39,13 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/NiteshGoshwami" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/Tazammul" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-
+<br><br>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nitesh-Goshwami&show_icons=true&theme=gotham" alt="Nitesh" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=gotham" alt="Tazammul" />
 
 
 
