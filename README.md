@@ -39,7 +39,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://media.bitdegree.org/storage/media/images/2020/02/c-vs-c-c-2-267x300.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/640px-ISO_C%2B%2B_Logo.svg.png"></code>
 <code><img height="20" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> -->
@@ -68,8 +68,5 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br><br>
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=gotham" alt="Tazammul" />
-
-
-
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=gotham" alt="Tazammul" /></p>
+ 
