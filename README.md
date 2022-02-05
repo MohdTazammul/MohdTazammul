@@ -7,7 +7,7 @@
   <img align="left" alt="Tazammul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://leetcode.com/tazammul1683/">
+<a href="https://leetcode.com/Mohd-Tazammul/">
   <img align="left" alt="Tazammul's Leetcode" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1024px-LeetCode_Logo_black_with_text.svg.png" />
 </a>
 
