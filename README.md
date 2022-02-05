@@ -12,7 +12,7 @@
 </a>
 
 
-<a href="https://leetcode.com/tazammul1683/">
+<a href="https://leetcode.com/Mohd-Tazammul/">
   <img align="left" alt="Tazammul's Hackerrank" width="100px" src="http://ww1.prweb.com/prfiles/2014/01/14/11488881/logo_wordmark.png" />
 </a>
  
