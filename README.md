@@ -25,7 +25,7 @@ Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack deve
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/70/80/4f/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="500" height="370" />
+  <img align="right" alt="GIF" src="http://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" width="500" height="370" />
   
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, i would love to help;
