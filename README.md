@@ -66,7 +66,32 @@ if you like what i do, maybe consider buying me a coffee/tea
 
 
 <br><br>
-📈 my github stats
+## 📊 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=gotham" alt="Tazammul" /></p>
- 
+![MohdTazammul GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical) 
+
+</br>
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical) 
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MohdTazammul/github-readme-stats)
+
+</br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MohdTazammul)](https://github.com/ryo-ma/github-profile-trophy)
+
+</br>
+
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true)
+<br/>
+<br/> 
