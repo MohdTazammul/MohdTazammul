@@ -4,16 +4,16 @@
   <img align="left" alt="Mohd Tazammul | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mohd-tazammul-a97a04150/">
-  <img align="left" alt="Tazammul's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tazammul's LinkedIN" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" />
 </a>
 
 <a href="https://leetcode.com/Mohd-Tazammul/">
-  <img align="left" alt="Tazammul's Leetcode" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/1024px-LeetCode_Logo_black_with_text.svg.png" />
+  <img align="left" alt="Tazammul's Leetcode" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" />
 </a>
 
 
 <a href="https://leetcode.com/Mohd-Tazammul/">
-  <img align="left" alt="Tazammul's Hackerrank" width="100px" src="http://ww1.prweb.com/prfiles/2014/01/14/11488881/logo_wordmark.png" />
+  <img align="left" alt="Tazammul's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
  
 ![](https://visitor-badge.glitch.me/badge?page_id=MohdTazammul.MohdTazammul)
@@ -25,7 +25,7 @@ Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack deve
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="http://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif" width="500" height="370" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500" />
   
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, i would love to help;
@@ -82,12 +82,6 @@ if you like what i do, maybe consider buying me a coffee/tea
 </br>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohdTazammul)](https://github.com/ryo-ma/github-profile-trophy)
-
-</br>
-
-
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
