@@ -90,13 +90,13 @@ if you like what i do, maybe consider buying me a coffee/tea
 <br><br>
 <h2 align="center">📊 My Github Stats<h2>
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="48%"/>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="45%"/>
 <div>
   </br>
   
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
-  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="71%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="23%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="69%"/>
 <div>
 
