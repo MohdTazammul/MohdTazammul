@@ -12,7 +12,7 @@
 </a>
 
 
-<a href="https://leetcode.com/Mohd-Tazammul/">
+<a href="https://www.hackerrank.com/tazammul1683/">
   <img align="left" alt="Tazammul's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" />
 </a>
  
@@ -88,35 +88,15 @@ if you like what i do, maybe consider buying me a coffee/tea
 </p></span>
 
 <br><br>
-<p align="center">
-## 📊 My Github Stats
-<!--   dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="48%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" height="255px" width="48%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&theme=radical&langs_count=8" alt="Mohd Tazammul" height="260px" width="25%" />
+  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true" height="255px" width="71%"/>
+<div>
 
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical" alt="Mohd Tazammul" />
-<!-- ![MohdTazammul GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdTazammul&show_icons=true&theme=radical)  -->
-
-</br>
-
-
-<!-- <p align="right" style="margin-top:-100px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&langs_count=8" alt="Mohd Tazammul" /> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&langs_count=8)](https://github.com/MohdTazammul/github-readme-stats) -->
-
-<br>
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" />
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical)  -->
-
-</br>
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&layout=compact&theme=radical&langs_count=10" alt="Mohd Tazammul" />
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdTazammul&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/MohdTazammul/github-readme-stats) -->
-
-
-<br/>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true)
-</p>
-<br/>
-<br/> 
