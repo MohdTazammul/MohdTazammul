@@ -115,7 +115,6 @@ if you like what i do, maybe consider buying me a coffee/tea
 
 
 <br/>
-<br/>
 
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=MohdTazammul&theme=gruvbox&hide_border=true&area=true)
 </p>
