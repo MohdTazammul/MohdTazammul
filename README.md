@@ -29,7 +29,7 @@ Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack deve
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
-- 💼 any freelance work? do reach, tazammul1683@gmail.com :)
+- 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
 
 
