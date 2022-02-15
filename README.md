@@ -26,7 +26,7 @@ Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack deve
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500" />
   
   
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
 
   
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
