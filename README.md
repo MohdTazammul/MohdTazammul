@@ -21,6 +21,7 @@
 
 <br />
 
+
 Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 
@@ -33,6 +34,7 @@ I am an analytical, detail-oriented, results-driven graduate, passionate about W
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
 - 👨‍💻 Checkout my Portfolio [Portfolio](https://tazammul-portfolio.netlify.app/)
+
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -89,6 +91,11 @@ if you like what i do, maybe consider buying me a coffee/tea
 </p></span>
 
 <br><br>
+<h2 align="center">📊 Leetcode Statistics<h2>
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/Mohd-Tazammul?ext=activity" />
+</div>
+
 <h2 align="center">📊 My Github Stats<h2>
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdTazammul&theme=radical" alt="Mohd Tazammul" height="250px" width="47%" />
