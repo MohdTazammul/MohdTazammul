@@ -22,14 +22,13 @@
 <br />
 
 
-Hi, I'm [Tazammul](https://github.com/MohdTazammul), An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
+Hi, I'm [Tazammul](https://github.com/MohdTazammul), passionate for learning with an endless supply of optimism and curiosity.
 
 
   <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
   
   
-I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
-
+I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding and the ability to write clean and efficient code. Looking forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
   
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
