@@ -32,7 +32,7 @@ I'm a solution driven Full Stack Web Developer skilled in MERN Stack. Highly pas
   
 - 💼 any freelance work? do reach, [email](mailto:tazammul1683@gmail.com) :)
 - 💬 ask me about anything, I would love to help ;)
-- 👨‍💻 Checkout my Portfolio [Portfolio](https://tazammul-portfolio.netlify.app/)
+- 👨‍💻 Checkout my Portfolio [Portfolio](https://tazammul.in/)
 
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
