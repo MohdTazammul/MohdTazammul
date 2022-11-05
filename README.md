@@ -92,7 +92,9 @@ if you like what i do, maybe consider buying me a coffee/tea
 <div align="center">
 <img src="https://leetcard.jacoblin.cool/Mohd-Tazammul?ext=activity" />
 <br /><br />
-<img width="100%" alt="leetcode contribution graph" src="https://user-images.githubusercontent.com/90475607/186266596-2db0e381-a505-44a2-b907-0be394da2b87.png">
+<img width="100%" alt="Screenshot 2022-11-05 at 2 09 40 PM" src="https://user-images.githubusercontent.com/90475607/200111350-c40d51b2-7c5e-4315-b800-48d13816f118.png">
+
+
 </div>
 <br /><br />
 <h2 align="center">📊 My Github Stats<h2>
